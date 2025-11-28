@@ -12,13 +12,9 @@ Animais selvagens
 
 A detecção é simulada via código, sem uso de IA real — ideal para aprendizado, TCCs, provas de conceito e demonstrações rápidas.
 
-🏗️ Arquitetura do Projeto
-BairroAlerta/
- ├── BairroAlerta.Api/      → Backend C# (ASP.NET Core Web API)
- └── BairroAlerta.Frontend/ → Frontend HTML, CSS e JavaScript
+🏗️ Arquitetura do Projeto BairroAlerta/ ├── BairroAlerta.Api/ → Backend C# (ASP.NET Core Web API) └── BairroAlerta.Frontend/ → Frontend HTML, CSS e JavaScript
 
-🚀 Tecnologias Utilizadas
-Backend (API)
+🚀 Tecnologias Utilizadas Backend (API)
 
 .NET 10
 
@@ -42,29 +38,23 @@ JavaScript (Fetch API)
 
 Live Server (VSCode)
 
-⚙️ 1. Como Executar o Projeto
-▶️ Backend
+⚙️ 1. Como Executar o Projeto ▶️ Backend
 
 Entre na pasta da API:
 
-cd BairroAlerta.Api
-dotnet run
-
+cd BairroAlerta.Api dotnet run
 
 Ela iniciará normalmente em:
 
-http://localhost:5000
-https://localhost:5001
+http://localhost:5000 https://localhost:5001
 
-Swagger disponível em:
-http://localhost:5000/swagger
+Swagger disponível em: http://localhost:5000/swagger
 
 🌐 Frontend
 
 Abra a pasta:
 
 BairroAlerta.Frontend
-
 
 Se estiver usando VSCode:
 
@@ -82,24 +72,11 @@ O navegador bloqueia requisições para outras origens, por isso a API habilita 
 
 app.UseCors();
 
-
 Isso permite que o frontend rode no 5500 e acesse a API no 5000.
 
-📂 Estrutura do Backend
-BairroAlerta.Api/
- ├── Controllers/
- │     └── AlertasController.cs
- ├── Data/
- │     └── AlertaContext.cs
- ├── Models/
- │     └── Alerta.cs
- ├── Services/
- │     ├── IDetectorService.cs
- │     └── FakeDetectorService.cs
- └── Program.cs
+📂 Estrutura do Backend BairroAlerta.Api/ ├── Controllers/ │ └── AlertasController.cs ├── Data/ │ └── AlertaContext.cs ├── Models/ │ └── Alerta.cs ├── Services/ │ ├── IDetectorService.cs │ └── FakeDetectorService.cs └── Program.cs
 
-Principais Componentes
-🔹 FakeDetectorService.cs
+Principais Componentes 🔹 FakeDetectorService.cs
 
 Simula uma IA gerando alertas aleatórios.
 
@@ -115,11 +92,7 @@ POST /api/alertas/detectar – gera um novo alerta falso
 
 Banco de dados InMemory para testes.
 
-🖼️ Estrutura do Frontend
-BairroAlerta.Frontend/
- ├── index.html
- ├── style.css
- └── app.js
+🖼️ Estrutura do Frontend BairroAlerta.Frontend/ ├── index.html ├── style.css └── app.js
 
 🔹 index.html
 
