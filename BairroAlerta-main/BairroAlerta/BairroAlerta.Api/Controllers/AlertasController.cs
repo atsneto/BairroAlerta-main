@@ -13,7 +13,7 @@ namespace BairroAlerta.Api.Controllers
     [Route("api/[controller]")]
     public class AlertasController : ControllerBase
     {
-        // Representa o local onde os alertas seriam guardados (banco ou memória)
+        // Representa o local onde os alertas seriam guardados (memória)
         private readonly AlertaContext _context;
 
         // Serviço responsável por gerar alertas fake

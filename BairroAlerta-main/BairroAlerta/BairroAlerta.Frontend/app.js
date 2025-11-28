@@ -1,14 +1,8 @@
-/* 
-  app.js
-  Configure API_BASE_URL abaixo para apontar para sua API.
-  Suporta respostas de alerta com (latitude, longitude) caso a API forneça.
-  Caso contrário, a posição será gerada aleatoriamente perto do centro configurado.
-*/
 const API_BASE_URL = "http://localhost:5000"; 
-const API_ALERTAS = `${API_BASE_URL}/api/alertas`;
+const API_ALERTAS = `${API_BASE_URL}/api/alertas`; // Endereço da API de alertas
 
-const CENTER = { lat: -5.8194, lng: -35.2050, zoom: 14 }; //Bairro Lagoa Nova
-const MAP_RANDOM_SPREAD = 0.02; // raio para jitter quando API não fornecer coords
+const CENTER = { lat: -5.8194, lng: -35.2050, zoom: 14 }; //Bairro Lagoa
+const MAP_RANDOM_SPREAD = 0.02; // raio dos alarmes aleatórios no mapa
 
 // cores por tipo
 const CORES = {
@@ -139,7 +133,7 @@ function renderAll(alertas) {
   alertListEl.innerHTML = '';
   clearMarkers();
 
-  // render reversed (mais recentes no topo)
+  // renderizar (mais recentes no topo)
   filtered.slice().reverse().forEach(a => {
     // item de lista
     const item = document.createElement('div');
@@ -159,7 +153,7 @@ function renderAll(alertas) {
     `;
     alertListEl.appendChild(item);
 
-    // marker
+    // alerta no mapa
     addMarkerForAlert(a);
   });
 
@@ -176,7 +170,7 @@ function updateStats(alertas) {
   $('animais').textContent = alertas.filter(a => a.tipo === 'Animal Selvagem').length;
 }
 
-// chart
+// grafico
 function initChart() {
   const ctx = document.getElementById('pieChart').getContext('2d');
   chart = new Chart(ctx, {
@@ -227,7 +221,7 @@ async function detectar() {
     showToast('🚨 Novo alerta detectado');
     // recarregar todos
     await carregar();
-    // abrir popup último marker (opcional)
+    // abrir popup último alerta (opcional)
     // zoom para todos
     fitMarkers();
     return alerta;
@@ -237,7 +231,7 @@ async function detectar() {
   }
 }
 
-// UI toasts
+//  toasts notificacoes do sistema
 let toastTimer = null;
 function showToast(msg, isError = false) {
   const t = $('toast');
@@ -252,13 +246,14 @@ function showToast(msg, isError = false) {
 function fitMarkers() {
   //Pega todos os marcadores que existem no mapa
   const layers = markersLayer.getLayers();
+  //se nao existe nenhum alarme, a funcao nao faz nada
   if (!layers.length) return;
   const group = L.featureGroup(layers);
   //Ajusta o zoom e posição do mapa para caber tudo na tela
   map.fitBounds(group.getBounds().pad(0.25));
 }
 
-// events
+// eventos ao usuario clicar nos botoes
 function attachEvents() {
   $('btnDetectar').addEventListener('click', detectar);
   $('filtroTipo').addEventListener('change', carregar);

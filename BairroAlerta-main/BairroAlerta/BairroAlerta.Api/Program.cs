@@ -4,17 +4,16 @@ using BairroAlerta.Api.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// CORS liberado para o front rodando no 5500
+// CORS liberado para o front conectar ao backend
 builder.Services.AddCors(options =>
 {
     options.AddDefaultPolicy(policy =>
     {
-        policy.WithOrigins("http://localhost:5500")
+        policy.AllowAnyOrigin()
               .AllowAnyMethod()
               .AllowAnyHeader();
     });
 });
-
 
 //Cria um banco de dados temporário na memória
 builder.Services.AddDbContext<AlertaContext>(opt =>

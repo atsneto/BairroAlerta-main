@@ -107,3 +107,4 @@ C:\Users\tosca\Desktop\BairroAlerta-main\BairroAlerta-main\BairroAlerta\BairroAl
 C:\Users\tosca\Desktop\BairroAlerta-main\BairroAlerta-main\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\BairroAlerta.Api.pdb
 C:\Users\tosca\Desktop\BairroAlerta-main\BairroAlerta-main\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\BairroAlerta.Api.genruntimeconfig.cache
 C:\Users\tosca\Desktop\BairroAlerta-main\BairroAlerta-main\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\ref\BairroAlerta.Api.dll
+C:\Users\tosca\Desktop\BairroAlerta-main\BairroAlerta-main\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\BairroAlerta.Api.sourcelink.json
