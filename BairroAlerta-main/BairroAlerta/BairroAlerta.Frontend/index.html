@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>BairroAlerta • Dashboard Profissional</title>
+
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="app">
+    <!-- SIDEBAR -->
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="logo">BA</div>
+        <div class="brand-text">
+          <h1>BairroAlerta</h1>
+          <p class="muted">Monitoramento comunitário — Protótipo</p>
+        </div>
+      </div>
+
+      <div class="actions">
+        <button id="btnDetectar" class="btn primary">⚠️ Detectar Agora</button>
+        <button id="btnAuto" class="btn ghost">▶ Auto</button>
+      </div>
+
+      <div class="filters">
+        <label>Pesquisar</label>
+        <input id="q" class="input" placeholder="Ex: moto, rua X, madrugada" />
+
+        <label>Filtrar por tipo</label>
+        <select id="filtroTipo" class="input">
+          <option value="">Todos</option>
+          <option>Roubo</option>
+          <option>Agressão</option>
+          <option>Animal Selvagem</option>
+          <option>Movimentação Estranha</option>
+        </select>
+
+        <div class="small muted">Status: <span id="status" class="status">Conectado</span></div>
+        <div class="last-updated muted">Última atualização: <span id="lastUpdated">—</span></div>
+      </div>
+
+      <div class="stats">
+        <div class="stat-card">
+          <div class="stat-title">Total</div>
+          <div class="stat-value" id="total">0</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-title">Roubos</div>
+          <div class="stat-value accent" id="roubos">0</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-title">Agressões</div>
+          <div class="stat-value warn" id="agressoes">0</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-title">Animais</div>
+          <div class="stat-value ok" id="animais">0</div>
+        </div>
+      </div>
+
+      <div class="chart-wrap">
+        <canvas id="pieChart"></canvas>
+      </div>
+
+      <footer class="sidebar-footer">
+        <small class="muted">Feito com ♥ — Protótipo • 2025</small>
+      </footer>
+    </aside>
+
+    <!-- MAIN -->
+    <main class="main">
+      <header class="topbar">
+        <div class="title">
+          <h2>Mapa de Ocorrências</h2>
+          <p class="muted">Visualize as ocorrências detectadas em tempo real</p>
+        </div>
+
+        <div class="top-actions">
+          <button id="zoomAll" class="btn outline">Zoom Todos</button>
+          <button id="clearMarkers" class="btn ghost">Limpar Marcadores</button>
+        </div>
+      </header>
+
+      <section class="map-section">
+        <div id="map" class="map"></div>
+      </section>
+
+      <section class="list-section">
+        <h3>Alertas Recentes</h3>
+        <div id="alertList" class="alert-list"></div>
+      </section>
+    </main>
+  </div>
+
+  <!-- Toast -->
+  <div id="toast" class="toast"><span id="toastMsg">Mensagem</span></div>
+
+  <!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

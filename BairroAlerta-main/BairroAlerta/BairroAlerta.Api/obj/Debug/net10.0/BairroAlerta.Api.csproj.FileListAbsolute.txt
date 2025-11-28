@@ -1,0 +1,109 @@
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta.Api\bin\Debug\net10.0\BairroAlerta.Api.staticwebassets.endpoints.json
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta.Api\bin\Debug\net10.0\BairroAlerta.Api.exe
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta.Api\bin\Debug\net10.0\BairroAlerta.Api.deps.json
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta.Api\bin\Debug\net10.0\BairroAlerta.Api.runtimeconfig.json
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta.Api\bin\Debug\net10.0\BairroAlerta.Api.dll
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta.Api\bin\Debug\net10.0\BairroAlerta.Api.pdb
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta.Api\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta.Api\obj\Debug\net10.0\BairroAlerta.Api.csproj.AssemblyReference.cache
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta.Api\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta.Api\obj\Debug\net10.0\BairroAlerta.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta.Api\obj\Debug\net10.0\BairroAlerta.Api.AssemblyInfoInputs.cache
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta.Api\obj\Debug\net10.0\BairroAlerta.Api.AssemblyInfo.cs
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta.Api\obj\Debug\net10.0\BairroAlerta.Api.csproj.CoreCompileInputs.cache
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta.Api\obj\Debug\net10.0\BairroAlerta.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta.Api\obj\Debug\net10.0\BairroAlerta.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta.Api\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta.Api\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta.Api\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta.Api\obj\Debug\net10.0\scopedcss\bundle\BairroAlerta.Api.styles.css
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta.Api\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta.Api\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta.Api\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta.Api\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta.Api\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta.Api\obj\Debug\net10.0\BairroAl.31AD5CAF.Up2Date
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta.Api\obj\Debug\net10.0\BairroAlerta.Api.dll
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta.Api\obj\Debug\net10.0\refint\BairroAlerta.Api.dll
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta.Api\obj\Debug\net10.0\BairroAlerta.Api.pdb
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta.Api\obj\Debug\net10.0\BairroAlerta.Api.genruntimeconfig.cache
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta.Api\obj\Debug\net10.0\ref\BairroAlerta.Api.dll
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta\BairroAlerta.Api\bin\Debug\net10.0\BairroAlerta.Api.staticwebassets.endpoints.json
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta\BairroAlerta.Api\bin\Debug\net10.0\BairroAlerta.Api.exe
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta\BairroAlerta.Api\bin\Debug\net10.0\BairroAlerta.Api.deps.json
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta\BairroAlerta.Api\bin\Debug\net10.0\BairroAlerta.Api.runtimeconfig.json
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta\BairroAlerta.Api\bin\Debug\net10.0\BairroAlerta.Api.dll
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta\BairroAlerta.Api\bin\Debug\net10.0\BairroAlerta.Api.pdb
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta\BairroAlerta.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta\BairroAlerta.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta\BairroAlerta.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta\BairroAlerta.Api\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta\BairroAlerta.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta\BairroAlerta.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta\BairroAlerta.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\BairroAlerta.Api.csproj.AssemblyReference.cache
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\BairroAlerta.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\BairroAlerta.Api.AssemblyInfoInputs.cache
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\BairroAlerta.Api.AssemblyInfo.cs
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\BairroAlerta.Api.csproj.CoreCompileInputs.cache
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\BairroAlerta.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\BairroAlerta.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\BairroAlerta.Api.sourcelink.json
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\scopedcss\bundle\BairroAlerta.Api.styles.css
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\BairroAl.31AD5CAF.Up2Date
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\BairroAlerta.Api.dll
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\refint\BairroAlerta.Api.dll
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\BairroAlerta.Api.pdb
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\BairroAlerta.Api.genruntimeconfig.cache
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\ref\BairroAlerta.Api.dll
+C:\Users\tosca\Desktop\BairroAlerta-main\BairroAlerta-main\BairroAlerta\BairroAlerta.Api\bin\Debug\net10.0\BairroAlerta.Api.staticwebassets.endpoints.json
+C:\Users\tosca\Desktop\BairroAlerta-main\BairroAlerta-main\BairroAlerta\BairroAlerta.Api\bin\Debug\net10.0\BairroAlerta.Api.exe
+C:\Users\tosca\Desktop\BairroAlerta-main\BairroAlerta-main\BairroAlerta\BairroAlerta.Api\bin\Debug\net10.0\BairroAlerta.Api.deps.json
+C:\Users\tosca\Desktop\BairroAlerta-main\BairroAlerta-main\BairroAlerta\BairroAlerta.Api\bin\Debug\net10.0\BairroAlerta.Api.runtimeconfig.json
+C:\Users\tosca\Desktop\BairroAlerta-main\BairroAlerta-main\BairroAlerta\BairroAlerta.Api\bin\Debug\net10.0\BairroAlerta.Api.dll
+C:\Users\tosca\Desktop\BairroAlerta-main\BairroAlerta-main\BairroAlerta\BairroAlerta.Api\bin\Debug\net10.0\BairroAlerta.Api.pdb
+C:\Users\tosca\Desktop\BairroAlerta-main\BairroAlerta-main\BairroAlerta\BairroAlerta.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tosca\Desktop\BairroAlerta-main\BairroAlerta-main\BairroAlerta\BairroAlerta.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tosca\Desktop\BairroAlerta-main\BairroAlerta-main\BairroAlerta\BairroAlerta.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\tosca\Desktop\BairroAlerta-main\BairroAlerta-main\BairroAlerta\BairroAlerta.Api\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\tosca\Desktop\BairroAlerta-main\BairroAlerta-main\BairroAlerta\BairroAlerta.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tosca\Desktop\BairroAlerta-main\BairroAlerta-main\BairroAlerta\BairroAlerta.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tosca\Desktop\BairroAlerta-main\BairroAlerta-main\BairroAlerta\BairroAlerta.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tosca\Desktop\BairroAlerta-main\BairroAlerta-main\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\BairroAlerta.Api.csproj.AssemblyReference.cache
+C:\Users\tosca\Desktop\BairroAlerta-main\BairroAlerta-main\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\tosca\Desktop\BairroAlerta-main\BairroAlerta-main\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\BairroAlerta.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tosca\Desktop\BairroAlerta-main\BairroAlerta-main\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\BairroAlerta.Api.AssemblyInfoInputs.cache
+C:\Users\tosca\Desktop\BairroAlerta-main\BairroAlerta-main\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\BairroAlerta.Api.AssemblyInfo.cs
+C:\Users\tosca\Desktop\BairroAlerta-main\BairroAlerta-main\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\BairroAlerta.Api.csproj.CoreCompileInputs.cache
+C:\Users\tosca\Desktop\BairroAlerta-main\BairroAlerta-main\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\BairroAlerta.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tosca\Desktop\BairroAlerta-main\BairroAlerta-main\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\BairroAlerta.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tosca\Desktop\BairroAlerta-main\BairroAlerta-main\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\tosca\Desktop\BairroAlerta-main\BairroAlerta-main\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\tosca\Desktop\BairroAlerta-main\BairroAlerta-main\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\tosca\Desktop\BairroAlerta-main\BairroAlerta-main\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\scopedcss\bundle\BairroAlerta.Api.styles.css
+C:\Users\tosca\Desktop\BairroAlerta-main\BairroAlerta-main\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\tosca\Desktop\BairroAlerta-main\BairroAlerta-main\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\tosca\Desktop\BairroAlerta-main\BairroAlerta-main\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\tosca\Desktop\BairroAlerta-main\BairroAlerta-main\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\tosca\Desktop\BairroAlerta-main\BairroAlerta-main\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\tosca\Desktop\BairroAlerta-main\BairroAlerta-main\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\BairroAl.31AD5CAF.Up2Date
+C:\Users\tosca\Desktop\BairroAlerta-main\BairroAlerta-main\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\BairroAlerta.Api.dll
+C:\Users\tosca\Desktop\BairroAlerta-main\BairroAlerta-main\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\refint\BairroAlerta.Api.dll
+C:\Users\tosca\Desktop\BairroAlerta-main\BairroAlerta-main\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\BairroAlerta.Api.pdb
+C:\Users\tosca\Desktop\BairroAlerta-main\BairroAlerta-main\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\BairroAlerta.Api.genruntimeconfig.cache
+C:\Users\tosca\Desktop\BairroAlerta-main\BairroAlerta-main\BairroAlerta\BairroAlerta.Api\obj\Debug\net10.0\ref\BairroAlerta.Api.dll

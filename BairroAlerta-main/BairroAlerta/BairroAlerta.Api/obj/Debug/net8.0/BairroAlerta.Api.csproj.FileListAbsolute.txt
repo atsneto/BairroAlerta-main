@@ -1,0 +1,6 @@
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta.Api\obj\Debug\net8.0\BairroAlerta.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta.Api\obj\Debug\net8.0\BairroAlerta.Api.AssemblyInfoInputs.cache
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta.Api\obj\Debug\net8.0\BairroAlerta.Api.AssemblyInfo.cs
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta.Api\obj\Debug\net8.0\BairroAlerta.Api.csproj.CoreCompileInputs.cache
+C:\Users\tosca\OneDrive\Área de Trabalho\BairroAlerta.Api\obj\Debug\net8.0\BairroAlerta.Api.MvcApplicationPartsAssemblyInfo.cache
